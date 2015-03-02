@@ -1,0 +1,31 @@
+{
+  "name": "Compartio_landing",
+  "version": "1.0.0",
+  "homepage": "https://github.com/consumo-colaborativo/compart.io-landing",
+  "authors": [
+    "Compartio <hola@compart.io>"
+  ],
+  "description": "Landing para compart.io",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "BigVideo.js": "~1.0.7",
+    "jquery-textfill-try": "~0.4.0",
+    "eventEmitter": "4.2.7",
+    "eventie": "1.0.5",
+    "imagesloaded": "3.1.4",
+    "jquery": "2.1.0",
+    "jquery-textfill-try": "0.4.0",
+    "jquery-ui": "1.10.3",
+    "sizzle": "1.10.16"
+  }
+}
